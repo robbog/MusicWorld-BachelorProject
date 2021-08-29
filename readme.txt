@@ -20,5 +20,5 @@ Instrukcja uruchamiania programu:
 
 
 W razie problemów z uruchomieniem aplikacji autor prosi o kontakt:
-email: robert.bogacz@edu.wsti.pl 
+email: robertbogacz01@gmail.com
 telefon: +48 668 939 176
